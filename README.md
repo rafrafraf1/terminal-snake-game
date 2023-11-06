@@ -1,2 +1,3 @@
 # terminal-snake-game
-Snake game in the terminal, made with python.
+
+![](https://github.com/terminal-snake-game/snake_game.gif)
